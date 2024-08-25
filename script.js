@@ -1,5 +1,5 @@
 document.getElementById("fb").onclick = ()=>{
-	window.location.href="https://www.facebook.com/johnven.geonzon.7";
+	window.location.href="https://www.facebook.com/1188463636O829720";
 }
 var profilepic = document.getElementById("profilepic");
 profilepic.onclick =()=>{
